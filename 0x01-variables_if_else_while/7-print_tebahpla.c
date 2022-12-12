@@ -9,7 +9,7 @@
  */
 int main(void)
 {
-	char c = '2';
+	char c = 'z';
 
 	while (c >= 'a')
 	{
@@ -17,6 +17,6 @@ int main(void)
 		c--;
 	}
 
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
