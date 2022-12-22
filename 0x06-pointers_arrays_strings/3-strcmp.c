@@ -3,7 +3,7 @@
  * _strcmp - Function which compaare two strings and
  * @s1: first string
  * @s2: second string
- * Return
+ * Return:
  *                returns zero if s1 == s2
  *                return negative number if s1 < s2
  *                return positive number if s1 > s2
